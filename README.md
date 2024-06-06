@@ -1,2 +1,7 @@
 # Statistics
-Projects and study materials on regression analysis, data mining, probability theory, and statistical inference.
+
+This repository contains projects and study materials related to statistics, including:
+- Regression Analysis
+- Data Mining
+- Probability Theory
+- Statistical Inference
